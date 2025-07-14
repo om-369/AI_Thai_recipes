@@ -1,0 +1,17 @@
+agno
+groq
+openai
+python-dotenv
+duckduckgo-search
+pypdf
+lancedb
+tantivy
+streamlit
+pandas
+yfinance
+sqlalchemy
+fastapi[standard]
+pylance
+huggingface_hub
+
+
